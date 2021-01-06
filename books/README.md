@@ -1,1 +1,1 @@
-<img src="操作系统导论.png" />
+<img src="OS_three_easy_pieces.png" />
